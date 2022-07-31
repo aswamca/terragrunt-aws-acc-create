@@ -1,0 +1,1 @@
+To test terragrunt with AWS CICD pipeline - Create AWS account from AWs Organization
